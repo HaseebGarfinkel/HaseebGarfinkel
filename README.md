@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaseebGarfinkel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, C++
+- 🌱 I’m currently learning Python, C++, and Java
 
 <!---
 HaseebGarfinkel/HaseebGarfinkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
